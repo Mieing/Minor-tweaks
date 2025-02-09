@@ -1,0 +1,11 @@
+Package: cn.sttt.iyzico
+Name: iyzico
+Author: sttt
+Description: iyzico
+Depends: mobilesubstrate
+Maintainer: sttt
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0.0
+Icon: https://Mieing.Github.io/repo/file/iyzico.png
+
